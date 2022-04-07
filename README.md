@@ -1,4 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on kickstarter data to uncover trends
-![boxandwhiskers](path/to/boxandwhiskers.png)
-[data-1-1-3-StarterBook](path/to/data-1-1-3-StarterBook.xlsx)
+_ _ _ 
+![This is an image](boxandwhiskers.png)
+_ _ _ 
+[Data-1-1-3-StarterBook](data-1-1-3-StarterBook.xlsx)
